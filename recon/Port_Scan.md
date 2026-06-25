@@ -1,5 +1,4 @@
 
----
 
 # The Port Scanning Blueprint (Alternative Methodologies)
 
