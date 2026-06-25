@@ -1,4 +1,3 @@
-  GNU nano 8.4             /home/final_boss/Notes/Recon/Port_Scanning.md                       
 
 ---
 
